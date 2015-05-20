@@ -4,4 +4,4 @@
 
 [Wiki](https://github.com/uoou/AWildernessOfDragons/wiki)
 
-[Essay](http://uoou.github.io/AWildernessOfDragons/book.html)
+[Essay](http://uoou.github.io/AWildernessOfDragons/essay.html)
