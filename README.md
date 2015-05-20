@@ -1,6 +1,6 @@
 # A Wilderness of Dragons
 
-Blog
+[Blog] (http://uoou.github.io/AWildernessOfDragons)
 
 [Wiki](https://github.com/uoou/AWildernessOfDragons/wiki)
 
