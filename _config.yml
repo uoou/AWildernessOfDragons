@@ -1,0 +1,28 @@
+name: A Wilderness of Dragons
+description: A Wilderness of Dragons Blog 
+baseurl: "/AWildernessOfDragons"
+links:
+    About:
+        url: https://github.com/uoou/AWildernessOfDragons/blob/gh-pages/README.md
+    Wiki:
+        url: https://github.com/uoou/AWildernessOfDragons/wiki 
+    GitHub:
+        url: https://github.com/uoou/AWildernessOfDragons/
+    Twitter:
+        url: https://twitter.com/yemachine
+    Book:
+        url: /AWildernessOfDragons/book.html 
+authors:
+    simon:
+        name: Simon J. Cook
+        email: simonjohncook@gmail.com
+    brad:
+        name: Dr. Brad Hammer
+        email: 
+#
+# !! You don't need to change any of the configuration flags below !!
+#
+
+markdown: redcarpet
+highlighter: pygments
+permalink: /:title/
