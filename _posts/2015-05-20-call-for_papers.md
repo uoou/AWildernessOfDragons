@@ -11,4 +11,4 @@ Verlyn Flieger is the author of *Splintered Light*, *A Question of Time*, *Inter
 Paper proposals: September 1st 2015
 Finished papers: March 1st 2016
 
-See original call for papers [here]](http://sacnoths.blogspot.co.il/2015/05/verlyn-flieger-festschrit-call-for.html)
+See original call for papers [here](http://sacnoths.blogspot.co.il/2015/05/verlyn-flieger-festschrit-call-for.html)
