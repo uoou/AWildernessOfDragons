@@ -4,8 +4,8 @@
 
 Researched and written collaboratively by members of the G+ Middle-earth community.
 
-[Blog] (http://uoou.github.io/AWildernessOfDragons)
-[Wiki](https://github.com/uoou/AWildernessOfDragons/wiki)
+[Blog] 
+[Wiki](
 [Essay](http://uoou.github.io/AWildernessOfDragons/essay.html)
 
 ### Tentative title and theme: 'Fairy stories and fairy visions'
@@ -14,6 +14,6 @@ Tolkien consistently championed the idea of fairy *stories*. In his early *Book 
 ### Timeline
 The project consists of two phases:
 
-(1) To Septmber 1st 2015: initial research (Wiki) and discussion (blog posts), culminating in an abstract of the argument and a proposal for the paper.
+(1) To Septmber 1st 2015: initial research via [Wiki](https://github.com/uoou/AWildernessOfDragons/wiki) and discussion via [blog posts](http://uoou.github.io/AWildernessOfDragons), culminating in an abstract of the argument and a proposal for the paper.
 
-(2) To March 1 2016: paper composed via github (essay).
+(2) To March 1 2016: [essay](http://uoou.github.io/AWildernessOfDragons/essay.html) composed via github.
