@@ -17,7 +17,7 @@ Early in the fourth age (year 1452 of the Shire reckoning) the Westmarch - the l
 
 When Sam leaves Bag End and travels to the Grey Havens he passes the Tower Hills. It is said that he was last seen by Elanor, to whom he gave the Red Book. The Red Book of Westmarch was subsequently housed at Undertowers, that is, at Emyn Beraid.
 
-*In short*: Emyn Beraid, in different ages, is home to two very different 'technologies'. An 'elvish technology' - a Palantír through which Elendil can gave over the sea; and, in a later age, *the* book that tells, not only of the events of the war of the Ring, but contains also many records of the Eldar days recorded and translated by Bilbo in Rivendell.
+*In short*: Emyn Beraid, in different ages, is home to two very different 'technologies'. An 'elvish technology' - a Palantír through which Elendil can gaze over the sea; and, in a later age, *the* book that tells, not only of the events of the war of the Ring, but contains also many records of the Eldar days recorded and translated by Bilbo in Rivendell.
 
 Are we to take if from this that the book is in some way a similar, if lesser version of the elvish Palantír?
   
