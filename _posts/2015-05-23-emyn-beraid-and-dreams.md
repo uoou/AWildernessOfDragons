@@ -23,7 +23,3 @@ Flieger, V. 2007. The Curious Incident of the Dream at the Barrow: Memory and Re
 Honegger, T. 2011. More Light than Shadow? Jungian Approaches to Tolkien and the Archetypeal Image of the Shadow.
 
 Cook, S. 2015. On the shores of the shoreless sea.
-
-{% if page.comments %}
-{% include comments.html %}
-{% endif %}
