@@ -11,8 +11,13 @@ title: A Wilderness of Dragons
 				<article>
 					<h3><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
 					{% include byline.html %}
-					<a class="comcount" href="{{ site.baseurl }}{{ page.url }}#disqus_thread"></a>
-					<div class="excerpt">{{ page.excerpt }}</div>
+					<div class="excerpt">
+						{% if page.content contains '<!--more-->' %}
+    							{{ page.content | split:'<!--more-->' | first }}
+						{% else %}
+							{{ page.excerpt }}
+						{% endif %}
+					</div>
 				</article>
 			</li>
 		{% endfor %}
