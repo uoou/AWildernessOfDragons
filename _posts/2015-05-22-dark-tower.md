@@ -18,7 +18,3 @@ Frodo is here speaking about Orcs. (He continues: 'I don’t think it gave life 
 
 But perhaps the same could be said about towers and vision itself? In which case Elostirion, once home to the Seeing-Stone (the Palantír that looks West, over the sundering sea, back to Faërie) becomes the original, not only of Orthanc, but also of Barad-dûr, where dwelled the Great Eye of Sauron.
 
-{% if page.comments %}
-{% include comments.html %}
-{% endif %}
-
