@@ -25,5 +25,5 @@ Honegger, T. 2011. More Light than Shadow? Jungian Approaches to Tolkien and the
 Cook, S. 2015. On the shores of the shoreless sea.
 
 {% if page.comments %}
-	{% include comments.html %}
+{% include comments.html %}
 {% endif %}
