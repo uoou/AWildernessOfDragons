@@ -1,6 +1,7 @@
 ---
 title: Emyn Beraid
 layout: post
+comments: true
 author: simon
 ---
 The initial idea for this essay arises out of my pondering what to make of the different objects associated with the Elf Towers on the Tower Hills (Emyn Beraid) to the West of Hobbiton.
@@ -21,3 +22,6 @@ When Sam leaves Bag End and travels to the Grey Havens he passes the Tower Hills
 
 Are we to take if from this that the book is in some way a similar, if lesser version of the elvish Palantír?
   
+{% if page.comments %}
+	{% include comments.html %}
+{% endif %}
