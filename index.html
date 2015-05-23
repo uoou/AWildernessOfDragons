@@ -2,12 +2,13 @@
 layout: default
 ---
 {% include site_header.html %}
+{% include comment_count.html %}
 <section class="articlelist">
 	<ul>
 		{% for page in site.posts %}
 			<li>
 				<article>
-					<h3><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
+					<h3><a href="{{ site.baseurl }}{{ page.url }}#disqus_thread">{{ page.title }}</a></h3>
 					{% include byline.html %}
 					<div class="excerpt">{{ page.excerpt }}</div>
 				</article>
