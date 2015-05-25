@@ -4,7 +4,7 @@
 
 Researched and written collaboratively by members of the [G+ Middle-earth](https://plus.google.com/u/0/communities/116849492109213918326) community.
 
-### Tentative title and theme: 'The vision of enchantment: far-sight in Tolkien's stories'
+### Tentative title and theme: 'The vision of enchantment: (far) sight in Tolkien's stories'
 
 How are we to understand the important role accorded to visual magic in the great spell of enchantmnet that we know as *The Lord of the Rings*?
 
