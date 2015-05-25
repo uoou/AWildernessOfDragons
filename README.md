@@ -4,11 +4,12 @@
 
 Researched and written collaboratively by members of the [G+ Middle-earth](https://plus.google.com/u/0/communities/116849492109213918326) community.
 
-### Tentative title and theme: 'Enchantment & magic: words and vision'
-
-For Tolkien fairy stories are instances of an Elvish art of enchantment - the audience of a fairy story are enchanted by the words of the story. Elves are also magical beings, possesing (among other qualities) far-sight; they can also make magical objects (e.g. palantíri) that allow far-sight to mortal men. This magic of vision occupies central positions in Tolkien's great fairy story of *The Lord of the Rings*: Sauron as the great eye in the Dark Tower; Galadriel with her mirror, the seven stones or palantíri, by means of one first Sauruman and then Aragorn confront the spirit of Sauron. 
+### Tentative title and theme: 'The vision of enchantment: far-sight in Tolkien's stories'
 
 How are we to understand the important role accorded to visual magic in the great spell of enchantmnet that we know as *The Lord of the Rings*?
+
+For Tolkien the audience of a fairy story are enchanted by the words of the story. Telling enchanted stories is an Elvish art. But Elves are also magical beings, possesing (among other qualities) far-sight; they can also make magical objects (e.g. palantíri) that give far-sight to mortal men. Magical vision is a central motif in Tolkien's *The Lord of the Rings*: Sauron as the great eye in the Dark Tower; Galadriel with her mirror, the palantíri, not to mention various dreams and other moments (such as Frodo at Amon Hen).
+
 
 
 ### Timeline
