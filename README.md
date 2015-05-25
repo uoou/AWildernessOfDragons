@@ -8,7 +8,7 @@ Researched and written collaboratively by members of the [G+ Middle-earth](https
 
 How are we to understand the important role accorded to visual magic in the great spell of enchantmnet that we know as *The Lord of the Rings*?
 
-For Tolkien the audience of a fairy story are enchanted by the words of the story. Telling enchanted stories is an Elvish art. But Elves are also magical beings, possesing (among other qualities) far-sight; they can also make magical objects (e.g. palantíri) that give far-sight to mortal men. Magical vision is a central motif in Tolkien's *The Lord of the Rings*: Sauron as the great eye in the Dark Tower; Galadriel with her mirror, the palantíri, not to mention various dreams and other moments (such as Frodo at Amon Hen). Is it a coincidence that magical *vision* is so prominent this enchanted *story*?
+For Tolkien the audience of a fairy story are enchanted by the words of the story. Telling enchanted stories is an Elvish art. But Elves are also magical beings, possesing (among other qualities) far-sight; they can also make magical objects (e.g. palantíri) that give far-sight to mortal men. Magical vision is a central motif in Tolkien's *The Lord of the Rings*: Sauron as the great eye in the Dark Tower; Galadriel with her mirror, the palantíri, not to mention various dreams and other moments (such as Frodo at Amon Hen). Is it a coincidence that magical *vision* is so prominent in this enchanted *story*?
 
 
 
