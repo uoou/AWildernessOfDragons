@@ -4,7 +4,6 @@ layout: post
 comments: true
 author: oliver
 ---
-Emyn Beraid and dreams
 
 Flieger has demonstrated that, for Tolkien, places like “the Barrow-downs are more than mere scenery or topography, more than human-made relics become monuments of history. They are at once repositories of the past and gateways to it, portals through which old memory can touch the present, and the present can connect back to the past” (Flieger 2007: 110), i.e. the same can be applied to Elostirion, the Palantir-bearing white tower on the Tower Hills, west of the Shire. Flieger draws the above conclusion within her larger argument for Tolkien's belief in reincarnation, basing this broader hypothesis on the link to dream theories in the early 20th century, e.g. Jung and Cline, and on inherited / transmitted or extra-personal memory in the cases of Alboin and Audoin (The Lost Road), of Lowdham and Jeremy (The Notion Club Papers) and of Merry Brandybuck (Fog on the Barrow-Downs).
 
