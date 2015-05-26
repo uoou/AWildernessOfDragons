@@ -1,6 +1,7 @@
 ---
 title: On Fairy Stories
 layout: post
+comments: true
 author: simon
 ---
 In 1939 Tolkien delivered the Andrew Lang lecture, his topic 'Fairy Stories'. It first appeared in print (as 'On Fairy-stories') in 1947. The definitive edition today is *Tolkien on Fairy-Stories*, edited by V. Flieger and D. Anderson (2008). 
