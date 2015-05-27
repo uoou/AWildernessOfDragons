@@ -5,7 +5,7 @@ $font-stack:	Ubuntu, Calibri, sans-serif;
 $main-bg-col:	#fff;
 $header-font:	Palatino,"Book Antiqua",Garamond,"Palladio URW",serif;
 $heading-col:	#666;
-$link-col:		#9abd0e;
+$link-col:	#1693A5;
 $comment-col:	#ececec;
 $highlight-col:	#7e7e7e;
 
@@ -79,10 +79,10 @@ section, header {
 	max-width: 960px;
 }
 section.articlelist {
-	ul {
+	ul.articles {
 		list-style: none;
 		padding: 0 0 0 0;
-		li {
+		> li {
 			margin: 0 0 3em 0;
 		}
 		h3 {

@@ -22,6 +22,4 @@ When Sam leaves Bag End and travels to the Grey Havens he passes the Tower Hills
 
 Are we to take if from this that the book is in some way a similar, if lesser version of the elvish Palantír?
   
-{% if page.comments %}
-{% include comments.html %}
-{% endif %}
+
