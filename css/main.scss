@@ -25,7 +25,7 @@ p.c, p.s, p.b {
 .c::before, .s::before, .b::before {
 	color: $highlight-col;
 	font-weight: bold;
-
+}
 .s::before {
 	content: "Simon: ";
 }
