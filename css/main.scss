@@ -22,7 +22,7 @@ body {
 p.c, p.s, p.b {
 	padding: 0.5em;
 }
-.c::before, .s::before, .b::before {
+.c::before, .s::before, .b::before, .o::before {
 	color: $highlight-col;
 	font-weight: bold;
 }
@@ -31,6 +31,9 @@ p.c, p.s, p.b {
 }
 .b::before {
 	content: "Brad: ";
+}
+.o::before {
+	content: "Oliver: ";
 }
 a, a:visited {
 	text-decoration: none;
