@@ -2,7 +2,7 @@
 
 *An essay composed for a volume of [essays in honour of Verlyn Flieger](http://sacnoths.blogspot.co.il/2015/05/verlyn-flieger-festschrit-call-for.html)*
 
-Researched and written collaboratively by Simon J. Cook, Oliver Stegen, and anyone else who cares to contribute.
+Researched and written collaboratively by Simon J. Cook, Oliver Stegen, Jeremiah Burns, Tom Hillman, and anyone else who cares to contribute.
 
 ### Tentative title and theme: 'The vision of enchantment: (far) sight in Tolkien's stories'
 
