@@ -4,6 +4,9 @@ layout: post
 comments: true
 author: simon
 ---
+
+Here is a proposal for a revised framework for our essay. Any and all comments are welcome.
+
 Proposed title of essay: 'Elf-towers and the Mirror' (or something like this).
 
 Key sources: my essay ['On the Shores of the Shoreless Sea'](http://www.tolkienlibrary.com/press/1182-on-the-shores-of-the-shoreless-sea-simon-cook.php),our own notes on Emyn Beraid and related topics (see especially Oliver's post ['Emyn Beraid and dreams'](http://uoou.github.io/AWildernessOfDragons/emyn-beraid-and-dreams/)), and Flieger's discussions of Lothlórien and Galadriel's mirror in her *A Question of Time*.
