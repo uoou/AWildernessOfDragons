@@ -1,5 +1,5 @@
 ---
-title: (discarded initial)Framework
+title: (old)Framework
 layout: post
 comments: true
 author: simon
