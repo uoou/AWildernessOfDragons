@@ -11,6 +11,8 @@ Proposed title of essay: 'Elf-towers and the Mirror' (or something like this).
 
 Key sources: my essay ['On the Shores of the Shoreless Sea'](http://www.tolkienlibrary.com/press/1182-on-the-shores-of-the-shoreless-sea-simon-cook.php),our own notes on Emyn Beraid and related topics (see especially Oliver's post ['Emyn Beraid and dreams'](http://uoou.github.io/AWildernessOfDragons/emyn-beraid-and-dreams/)), and Flieger's discussions of Lothlórien and Galadriel's mirror in her *A Question of Time*.
 
+<!--more-->
+
 Theme: two places, one on the very west of Middle-earth (Emyn Beraid), one in the center (Lothlórien), contain three items (the seeing-stone, the Red Book, and the mirror of Galadriel), the careful contrasting and juxtaposition of all of which (both places and items) illuminates the creative heart of Tolkien's vision of the relationship between our world and Faërie.
 
 Our starting-point is the way that Flieger's discussions (plural, because she deals with time in Lothlórien and the dream-like nature of Galadriel's mirror at different places in her book) suggest some fairly clear-cut points of contrast and comparison with Emyn Beraid and its two 'magical' objects (Seeing-Stone and Book). But while Flieger comes very close to drawing out these points, she does not do so (and does not seem to have thought to do so). As such, development of this theme offers a perfect subject for an essay written in her honour.
