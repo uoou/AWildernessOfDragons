@@ -1,5 +1,5 @@
 ---
-title: Falling back awake \: a new frame
+title: "Falling back awake : a new frame"
 layout: post
 comments: true
 author: simon
