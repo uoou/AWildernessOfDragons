@@ -1,9 +1,11 @@
 ---
-title: Framework
+title: (discarded initial)Framework
 layout: post
 comments: true
 author: simon
 ---
+
+**Postscript by Simon, June 28 2015**: this post constituted an initial attempt to articulate a comprehensive framework for the project that I now feel should be discarded. In concrete terms, the fit between such key terms as magic and splinterings (etc.) was just too loose and the resultant essay looked in danger of being not much more than speculation. More generally, it now seems clear to me that the kind of questions we are asking are not going to find precise answers in Verlyne Flieger's first book, *Splintered Light*, whereas her second book, *A Question of Time*, is likely to provide a key to most issues. 
 
 Question: how to think about magical images as they appear in the story of *The Lord of the Rings*.  
 
