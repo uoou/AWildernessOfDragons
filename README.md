@@ -2,13 +2,11 @@
 
 *An essay composed for a volume of [essays in honour of Verlyn Flieger](http://sacnoths.blogspot.co.il/2015/05/verlyn-flieger-festschrit-call-for.html)*
 
-Researched and written collaboratively by Simon J. Cook, Oliver Stegen, Jeremiah Burns, Tom Hillman, and anyone else who cares to contribute.
+Researched and written collaboratively by Simon J. Cook and Oliver Stegen and anyone who cares to contribute.
 
-### Tentative title and theme: 'The vision of enchantment: (far) sight in Tolkien's stories'
+### Tentative title and theme: 'Elf Tower and Mirror'
 
-How are we to understand the important role accorded to visual magic in the great spell of enchantment that we know as *The Lord of the Rings*?
-
-For Tolkien the mortal audience of a fairy story are enchanted by the words of the story. Telling enchanted stories is an Elvish art. But Elves are also magical beings, possesing (among other qualities) far-sight; they can also make magical objects (e.g. palantíri) that give far-sight to mortal men. Magical vision is a central motif in Tolkien's *The Lord of the Rings*: Sauron as the great eye in the Dark Tower; Galadriel with her mirror, the palantíri, not to mention various dreams and other moments (such as Frodo at Amon Hen). How, then, are we to understand the role and meaning of magical *vision* in this enchanted *story*?
+In *A Question of Time* (Kent State, 1997), Verlyn Flieger has analyzed with great percpetiveness both the nature of Frodo's dreams and the puzzling position in time of Lothlórien. In her account, Galadriel's mirror, at the heart of Lothlórien, becomes a dream-like instrument for seeing times past and future as well as present. Our essay sets out to complement and further develop Flieger's analysis by inquiring into Emyn Beraid (or the Tower Hills) and the nature of the objects kept, at different times, in (or near) the Elf-towers there: the palantír of Elendil (the Seeing-stone by which Elendil could look West over the sundering-sea) and the Red Book, which recorded the events of the war of the Ring and the return of the King. We try to show how each of these three objects - mirror, stone, and book - work (in subtly different ways) to provide a meeting point of past (and future) in the present, dream and waking life, and of Faërie and our Middle-earth.
 
 
 
