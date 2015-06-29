@@ -5,7 +5,13 @@ comments: true
 author: simon
 ---
 
-**Postscript by Simon, June 28 2015**: this post constituted an initial attempt to articulate a comprehensive framework for the project that I now feel should be discarded. In concrete terms, the fit between such key terms as magic and splinterings (etc.) was just too loose and the resultant essay looked in danger of being not much more than speculation. More generally, it now seems clear to me that the kind of questions we are asking are not going to find precise answers in Verlyne Flieger's first book, *Splintered Light*, whereas her second book, *A Question of Time*, is likely to provide a key to most issues. 
+**Postscript by Simon, June 28 2015**: this post constituted an initial attempt to articulate a comprehensive framework for the project that I now feel should be discarded. 
+
+In concrete terms, the fit between such key terms as magic and splinterings (etc.) seems just too loose and the resultant essay looked in danger of being overly speculative. More generally, while there do appear to be some theoretical frameworks serving as the metaphysical scaffolding of Middle-earth, such frameworks (as Flieger shows) relate to such themes as the meaning of time in relation to changes of both light and language and (consequently) the nature of myth in relation to history. But while 'magic' has a role of some sort, it seems a mistake to search for too systematic a theory of its nature in Middle-earth. 
+
+To say the same from a quite different perspective: the kind of questions we are asking are not going to find precise answers in Verlyn Flieger's first book, *Splintered Light*, whereas her second book, *A Question of Time*, is likely to provide a key to most issues. 
+
+**End of postscript**
 
 Question: how to think about magical images as they appear in the story of *The Lord of the Rings*.  
 
