@@ -4,7 +4,7 @@ title: "Essay Proposal: The Tower in the Mirror"
 ---
 In *A Question of Time* (Kent State, 1997), Verlyn Flieger has analyzed with great percpetiveness both the nature of Frodo's dreams and the puzzling position in time of Lothlórien. In her account, Galadriel's mirror, at the heart of Lothlórien, becomes a dream-like instrument for seeing times past and future as well as present. Our essay sets out to complement and deepen Flieger's analysis by inquiring into Emyn Beraid (the Tower Hills) and the nature of the objects kept, at different times, in (or near) the Elf-towers there: the palantír of Elendil (the Seeing-stone by which Elendil could look West over the sundering-sea) and the Red Book, which recorded the events of the war of the Ring and the return of the king. We explore the (subtly different) ways by which each of these three objects - mirror, stone, and book - provide a meeting point of past and future in the present, of dream and waking life, and of Faërie and our Middle-earth.
 
-Joint authors in alphabetical order (as of July 29): Jeremiah Burns, Simon J. Cook, Richard Rohlin, Olver Stegen.
+Joint authors in alphabetical order (as of July 29): [Jeremiah Burns](https://plus.google.com/+JeremiahBurns/about), [Simon J. Cook](https://plus.google.com/+simoncook/about), [Richard Rohlin](https://plus.google.com/+RichardRohlin/about), [Oliver Stegen](https://plus.google.com/+OliverStegen/about).
 
 Our essay will be submitted to the collection of [essays in honour of Verlyn Flieger](http://sacnoths.blogspot.co.il/2015/05/verlyn-flieger-festschrit-call-for.html) edited by John D. Rateliff.
 
