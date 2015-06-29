@@ -11,13 +11,9 @@ Proposed title of essay: 'The Tower in the Mirror' (or something like that).
 
 Key sources: Flieger's discussions of Lothlórien and Galadriel's mirror in her *A Question of Time*, my essay ['On the Shores of the Shoreless Sea'](http://www.tolkienlibrary.com/press/1182-on-the-shores-of-the-shoreless-sea-simon-cook.php), and our own Wiki notes on Emyn Beraid and related topics - see especially Oliver's post ['Emyn Beraid and dreams'](http://uoou.github.io/AWildernessOfDragons/emyn-beraid-and-dreams/).
 
-<<<<<<< HEAD
 Theme: two places, one near the north-western shores of Middle-earth (Emyn Beraid), one near the very center (Lothlórien), contain three items: the seeing-stone, the Red Book, and the mirror of Galadriel. Our essay consists of an extended meditation upon the contrasts, similarities, and relationships between these three items (and two places).
 =======
 <!--more-->
-
-Theme: two places, one on the very west of Middle-earth (Emyn Beraid), one in the center (Lothlórien), contain three items (the seeing-stone, the Red Book, and the mirror of Galadriel), the careful contrasting and juxtaposition of all of which (both places and items) illuminates the creative heart of Tolkien's vision of the relationship between our world and Faërie.
->>>>>>> f82dbaa4406997a3098a4df13a5630ac4cdce298
 
 Our general framework is the impressive analysis of the nature of time in Middle-earth set out in Flieger's *A Question of Time*; specifically her discussions (plural, because she deals with time in Lothlórien and the dream-like nature of Galadriel's mirror at different places in her book), which suggest some fairly clear-cut points of contrast and comparison with Emyn Beraid and its two 'magical' objects (Seeing-Stone and Book). But while Flieger comes very close to arriving at these points (her discussion of Galadriel's mirror, for example, is a continuation of her discussion of Frodo's tower dream), she does not do so (and does not seem to have thought to do so). As such, the drawing out of these connections offers a perfect subject for an essay written in her honour.
 
