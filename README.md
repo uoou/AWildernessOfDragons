@@ -13,6 +13,6 @@ In *A Question of Time* (Kent State, 1997), Verlyn Flieger has analyzed with gre
 ### Timeline
 The project consists of two phases:
 
-(1) To Septmber 1st 2015: initial research via [Wiki](https://github.com/uoou/AWildernessOfDragons/wiki) and discussion via [blog posts](http://uoou.github.io/AWildernessOfDragons), culminating in an abstract of the argument and a proposal for the paper.
+(1) To August 2015: initial research via [Wiki](https://github.com/uoou/AWildernessOfDragons/wiki) and discussion via [blog posts](http://uoou.github.io/AWildernessOfDragons), culminating in an abstract of the argument and a proposal for the paper.
 
 (2) To March 1 2016: [essay](http://uoou.github.io/AWildernessOfDragons/essay.html) composed via github.
