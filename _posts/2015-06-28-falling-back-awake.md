@@ -13,6 +13,8 @@ Key sources: Flieger's discussions of Lothlórien and Galadriel's mirror in her 
 
 Theme: two places, one near the north-western shores of Middle-earth (Emyn Beraid), one near the very center (Lothlórien), contain three items: the seeing-stone, the Red Book, and the mirror of Galadriel. Our essay consists of an extended meditation upon the contrasts, similarities, and relationships between these three items (and two places).
 
+<!--more-->
+
 Our general framework is the impressive analysis of the nature of time in Middle-earth set out in Flieger's *A Question of Time*; specifically her discussions (plural, because she deals with time in Lothlórien and the dream-like nature of Galadriel's mirror at different places in her book), which suggest some fairly clear-cut points of contrast and comparison with Emyn Beraid and its two 'magical' objects (Seeing-Stone and Book). But while Flieger comes very close to arriving at these points (her discussion of Galadriel's mirror, for example, is a continuation of her discussion of Frodo's tower dream), she does not do so (and does not seem to have thought to do so). As such, the drawing out of these connections offers a perfect subject for an essay written in her honour.
 
 In concrete terms: Galadriel's mirror in Lothlórien (the location is as crucial as the object) becomes, in Flieger's reading, another variant of the Stone and Book of Emyn Beraid as we have explored them on our Wiki pages and blog posts. In all cases we are exploring (in different ways) the connections and meetings points of dream and waking life, past and present (and future), and the relationship of our Middle-earth to Faërie (both in the uttermost West, beyond the sundering sea, and also in the very ancient past of our own Middle-earth).
