@@ -2,7 +2,7 @@
 
 *An essay composed for a volume of [essays in honour of Verlyn Flieger](http://sacnoths.blogspot.co.il/2015/05/verlyn-flieger-festschrit-call-for.html)*
 
-Researched and written collaboratively by Simon J. Cook and Oliver Stegen and anyone who cares to contribute.
+Researched and written collaboratively by [Jeremiah Burns](https://plus.google.com/+JeremiahBurns/about), [Simon J. Cook](https://plus.google.com/+simoncook/about), [Thomas P. Hillman] (https://plus.google.com/107507259485817913355/about), [Richard Rohlin](https://plus.google.com/+RichardRohlin/about), [Oliver Stegen](https://plus.google.com/+OliverStegen/about), and anyone who cares to contribute.
 
 ### Tentative title and theme: 'The Tower in the Mirror'
 
