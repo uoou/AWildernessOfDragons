@@ -2,22 +2,9 @@
 layout: essay
 title: "Essay Proposal: The Tower in the Mirror"
 ---
-In *A Question of Time* (Kent State, 1997), Verlyn Flieger has analyzed with great percpetiveness both the nature of Frodo's dreams and the puzzling position in time of Lothlórien. In her account, Galadriel's mirror, at the heart of Lothlórien, becomes a dream-like instrument for seeing times past and future as well as present. Our essay sets out to complement and deepen Flieger's analysis by inquiring into Emyn Beraid (the Tower Hills) and the nature of the objects kept, at different times, in (or near) the Elf-towers there: the palantír of Elendil (the Seeing-stone by which Elendil could look West over the sundering-sea) and the Red Book, which recorded the events of the war of the Ring and the return of the king. We explore the (subtly different) ways by which each of these three objects - mirror, stone, and book - provide a meeting point of past and future in the present, of dream and waking life, and of Faërie and our Middle-earth.
+Essay for Verlyn Flieger Festschrift. Joint authors: [Jeremiah Burns](https://plus.google.com/+JeremiahBurns/about), [Simon J. Cook](https://plus.google.com/+simoncook/about), [Thomas P. Hillman] (https://plus.google.com/107507259485817913355/about), [Richard Rohlin](https://plus.google.com/+RichardRohlin/about), [Oliver Stegen](https://plus.google.com/+OliverStegen/about).
 
-Joint authors in alphabetical order (as of July 29): [Jeremiah Burns](https://plus.google.com/+JeremiahBurns/about), [Simon J. Cook](https://plus.google.com/+simoncook/about), [Thomas P. Hillman] (https://plus.google.com/107507259485817913355/about), [Richard Rohlin](https://plus.google.com/+RichardRohlin/about), [Oliver Stegen](https://plus.google.com/+OliverStegen/about).
-
-Our essay will be submitted to the collection of [essays in honour of Verlyn Flieger](http://sacnoths.blogspot.co.il/2015/05/verlyn-flieger-festschrit-call-for.html) edited by John D. Rateliff.
-
-This essay will be a collaborative work. As such we will distinguish between authors and contributors. The latter comprise all who make (useful) interjections at one point or another. Thus anyone who has contributed to a Wiki page is automatically identified as a contributor (this identification possibly extends also to anyone who makes useful comments on the blog posts, although this will be decided on a case by case basis). All contributors (who are not also authors) will be credited in the footnotes of the essay.
-
-Authoring entails commitment. Authoring does not necessarily mean writing. To author an essay involves research, drafting, critical engagement, dialogue (internal or external) and revision. The actual crafting of the final prose essay is therefore but one part of a much larger process. What constitutes authorship in this project is consistent engagement *in one form or another* - a manifestation of a commitment to see the project through from beginning to end.
-
-The above proposal will be submitted to John D. Rateliff on or shortly after the first of August, together with a list of joint authors. While this list will set nothing in stone, and some people may both drop in and drop out of the project after August 1, it should at least approximate the final authorial roll call. Therefore, if you wish to be a joint author of this essay, and are ready to commit to seeing it through to the final draft some time before March 2016, please either email Simon J. Cook or add your name to the list of authors above before the end of July.
-
-
-**************
-
-The Song (and the Sea) Remain the Same
+#The Song (and the Sea) Remain the Same
 
 The magic of Faërie is not an end in itself, its virtue is in its operations: among these are the satisfaction of certain primordial human desires. One of these desires is to survey the depths of space and time.
 On Fairy-stories (para. 16)
