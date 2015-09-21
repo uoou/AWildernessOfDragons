@@ -1,6 +1,6 @@
 ---
 layout: essay
-title: "Essay Proposal: The Tower in the Mirror"
+title: "Essay: The Song (and the Sea) Remain the Same"
 ---
 Essay for Verlyn Flieger Festschrift. Joint authors: [Jeremiah Burns](https://plus.google.com/+JeremiahBurns/about), [Simon J. Cook](https://plus.google.com/+simoncook/about), [Thomas P. Hillman] (https://plus.google.com/107507259485817913355/about), [Richard Rohlin](https://plus.google.com/+RichardRohlin/about), [Oliver Stegen](https://plus.google.com/+OliverStegen/about).
 
