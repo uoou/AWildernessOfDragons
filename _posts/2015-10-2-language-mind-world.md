@@ -1,10 +1,9 @@
 ---
-title: Language, Mind, and World: Barfield, Max Müller, and Tolkien
+title: Language, Mind, and World - Barfield, Max Müller, and Tolkien
 layout: post
 comments: true
 author: simon
 ---
-*Language, Mind, and World: Barfield, Max Müller, and Tolkien*
 
 >The incarnate mind, the tongue, and the tale are in our world coeval. (JRRT ‘On Fairy Stories’, 41)
 
