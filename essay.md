@@ -46,7 +46,22 @@ Flieger writes (175-76):
 
 ###Another Section
 
-Here is where we begin our own argument
+Here is where we begin our own argument....
+
+Simon: a quick comment, having just read quickly through all Tom's notes (note, it was a *very* quick read, and I am *very* tired, and so this could be all wrong). I think there is a distinction that needs to be added to Tom's analysis, and which might alter the conclusions somewhat. The distinction is between (i) normal private dreams (that an individual has when asleep) and (ii) the enchantment of Faerie that is like being in a dream woven by another.
+
+The first is what Dunne analyzed, giving Tolkien the idea of the individual dream as allowing visions of other time and space.
+
+The second is what Tolkien calls 'Faërian Drama', which the experience of being present at 'may be very similar to Dreaming and has (it would seem) sometimes (by men) been confounded with it' (OFS 63). Another words for this experience is (being under an) 'enchantment'.
+
+A lot of the dream references in LOTR noted by Tom are to dream-*like* states, and rather than reading this as being a semi-dream state (which is what I *think* Tom does) it might be safer to classify them as simply 'enchanted states'. I'm not sure if or how this impacts upon Tom's criticisms of Flieger's interpretation of Frodo's 'falling back asleep again' in returning to the Shire, but my (sleepy) intuition is that there is some impact.
+
+Two further points:
+
+1. The two distinct types - dream and dream-like - seem to come together in Lothlorien, or at least in Galadriel's mirror. (And certainly, in adopting Dunne's dream theory, Tolkien must have been aware of its resonance to his ideas of enchantment as dream-like).
+
+2. A quite different point, deriving from the second paragraph in the introduction: in OFS Tolkien identifies elves as *the* denizens of Faërie; but of course, *all* the inhabitants of Faërie 'are in and of Faërie' and 'have their being in its nature'. This surely stands behind the enchantments woven into so much of the narrative of LOTR - from old man willow to the barrow wights to the water of the dead marshes - the things and beings of Faërie are simply doing what they naturally do: casting enchantments (= generating dream-like states of consciousness). *In a way*, all these enchantments are *like* the telling of fairy stories. (But it is only the Elvish form of this enchantment that the mortal composer of fairy stories aspires to imitate).
+
 
 
 ###Another Section
