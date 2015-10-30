@@ -37,6 +37,12 @@ Frodo here does more than offer words of comfort; he points directly, if elusive
 It was Verlyn Flieger who pointed the way... 
 [Here we summarize Fliger's AQT and then courteously draw attention to what we regard as its shortcomings, which Tom identifies with the two late chapters dealing with Frodo's dreams.]
 
+Flieger writes (175-76):
+
+>"[In the Lord of the Rings] dreams are not so much a part of the action as correlative to it.  They correlate the waking and the sleeping worlds, they parallel or contrast conscious with unconscious experience, and they act as chronological markers. Free in a way the rest of the narrative is not to move beyond the confines of conscious experience, the dreams in The Lord of the Rings reach into unsuspected regions of the mind, bridge time and space, and so demonstrate the interrelationship between dreaming and waking that the two states can be seen as a greater whole."
+
+
+
 
 ###Another Section
 
