@@ -5,7 +5,7 @@ title: "The Song (and the Sea) Remain the Same"
 Co-authors: [Jeremiah Burns](https://plus.google.com/+JeremiahBurns/about), [Simon J. Cook](https://plus.google.com/+simoncook/about), [Thomas P. Hillman] (https://plus.google.com/107507259485817913355/about), [Richard Rohlin](https://plus.google.com/+RichardRohlin/about), [Oliver Stegen](https://plus.google.com/+OliverStegen/about). For the Verlyn Flieger Festschrift, *A Wilderness of Dragons*.
 
 
->The magic of Faërie is not an end in itself, its virtue is in its operations: among these are the satisfaction of certain primordial human desires. One of these desires is to survey the depths of space and time. (*On Fairy-stories*,para. 16)
+>The magic of Faërie is not an end in itself, its virtue is in its operations: among these are the satisfaction of certain primordial human desires. One of these desires is to survey the depths of space and time. (OFS 34-5)
 
 ###Introduction
 
@@ -23,15 +23,19 @@ A level of abstraction, not to mention self-reflexicity, pervades these thoughts
 
 >*Eärendil was a mariner...*      (FR, Volume 2, Chapter 1, 'Many Meetings'; emphases added)
 
-This scene is almost as a prelude to Tolkien's own fairy story. We first encouter the true sub-creative art, or rather, its most perfect expression: words that take shape, opening up vistas of things and places never before imagined: the seas that meet the further shore are conjured up before Frodo, whose experience of hearing the sweet music of the Elvish minstrels becomes ever more insperable from dream. And then a new voice is heard, a mortal voice, a lesser attempt to sing of stirring events in the first age of Faërie - an intimation of Tolkien's attempts to (now) tell the great tale of the ending of the Third Age of Middle-earth.
+This scene could be read as a prelude to Tolkien's own fairy story. First we encouter the true sub-creative art, or rather, its most perfect expression: words that take shape, conjuring visions of things and places never before imagined, of the seas that meet the further shore. Frodo's experience listening to the sweet music of the Elvish minstrels becomes ever more insperable from dream. And then a new voice is heard, a mortal voice, a lesser attempt to sing of stirring events in the first age of Faërie - an intimation of Tolkien's attempt to (now) tell the great tale of the ending of the Third Age of Middle-earth.
 
-An interesting commentary on this scene is offered immediately after the recitation, as Bilbo tells Frodo that Aragorn regarded his verse as a bit of a cheek: 'he obviously thought the whole thing rather above my head', Bilbo tells Frodo. 'I suppose he was right.' Aragorn thus highlights the gap between true elvish enchantment and mortal attempt to tell fairy stories:  Yet Frodo's words to Bilbo are encouraging: 'It seemed to me to fit somehow, though I can't explain. I was half asleep when you began, and it seemed to follow on from something that I was dreaming about.'
+An interesting commentary on this scene is offered immediately after the recitation, as Bilbo tells Frodo that Aragorn regarded his verse as a bit of a cheek: 'he obviously thought the whole thing rather above my head', Bilbo tells Frodo. 'I suppose he was right.' Aragorn highlights the gap between true elvish enchantment and mortal attempt to tell fairy stories:  Yet Frodo's words to Bilbo are encouraging: 'It seemed to me to fit somehow, though I can't explain. I was half asleep when you began, and it seemed to follow on from something that I was dreaming about.' 
 
-
-
-
+Frodo here does more than offer words of comfort; his words identify one of the mystery's of Tolkien's sub-creative art, at least as it was expressed in his story of the war of the Ring. Dream, somehow, is grasped by Tolkien as an aid to mortal composition and telling of fairy stories. A close reading of this great work - the greatest fairy story of the twentieth century - reveals a pervasive and multifaceted use and invocation of dreams. It is the business of this essay to bring to waking thought the role of dreams in *The Lord of the Rings*.
 
 
+###*A Question of Time*
+
+It was Verlyn Flieger who pointed the way... [Here we summarize Fliger's AQT and then courteously draw attention to what we regard as its shortcomings, which Tom identifies with the two late chapters dealing with Frodo's dreams.]
+
+
+###First Section of our own Argument
 
 
 ###Bibliography
