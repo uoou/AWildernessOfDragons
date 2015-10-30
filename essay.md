@@ -64,6 +64,11 @@ And,
 
 But I am wondering now if this distinction is sustainable - are the first not (always?) states of enchantment in which we are not explicitly told who (or what) is doing the enchantment (but enchantment is the very nature of the environment)? 
 
+Again, Tom writes:
+>Frodo says that he feels "like" he is falling asleep.  Merry says it seems "like" a dream, as does Sam on the way to the Grey Havens. But what is "like" a dream, or "like" falling asleep, is by definition NOT a dream and NOT falling asleep.  The distinction between "dream" and dreamlike" could not be more important in a context like this, because it is the difference between what is and what is not a dream. Merry, Sam, and Frodo all know that what happened to them on their adventure was no dream, even if it was so different from their former lives that it might be compared to one. 
+
+This is not wrong, but could perhaps be advanced if we step from "like a dream is NOT a dream" to "like a dream is enchanted" - then we can read at least Merry's statement as nothing to do with dream in its normal sense and all about a return out of an enchnated land, that is, the return from Faërie. (This in itself is no big deal, and I suspect Tom would say I', just stating what he alread knew; but it might be that keeping this distinction betweeen dream and enchantment in mind helps clarify the general discussion).
+
 To be clear, I am thoroughly in agreement with the following:
 
 >Yet how to arrange these three between the other two [waking and sleeping consciousness] is difficult, probably impractical, and most likely irrelevant. The states overlap and blend. Dreams, for example, can be ordinary, like those of Merry and Pippin in Bombadil's house; they can combine with a wider consciousness, like Frodo's that cross time and space; or they can partake of enchanted consciousness as Merry's dream in the barrow seems to do. There is thus no hedge, no river, no line of trees, to mark a clear boundary. The interplay between these states and between the normal world and Faërie argues that these are all, not alternative states or worlds, but integral parts of a greater whole.
