@@ -35,7 +35,14 @@ Frodo here does more than offer words of comfort; his words identify one of the 
 It was Verlyn Flieger who pointed the way... [Here we summarize Fliger's AQT and then courteously draw attention to what we regard as its shortcomings, which Tom identifies with the two late chapters dealing with Frodo's dreams.]
 
 
-###First Section of our own Argument
+###Another Section
+
+Here is where we begin our own argument
+
+
+###Another Section
+
+Here we continue our own argument. And so on...
 
 
 ###Bibliography
