@@ -54,7 +54,19 @@ The first is what Dunne analyzed, giving Tolkien the idea of the individual drea
 
 The second is what Tolkien calls 'Faërian Drama', which the experience of being present at 'may be very similar to Dreaming and has (it would seem) sometimes (by men) been confounded with it' (OFS 63). Another word for this experience is (being under an) 'enchantment'.
 
-A lot of the dream references in LOTR noted by Tom are to dream-*like* states, and rather than reading this as being a semi-dream state (which is what I *think* Tom does) it might be safer to classify them as simply 'enchanted states'. I'm not sure if or how this impacts upon Tom's criticisms of Flieger's interpretation of Frodo's 'falling back asleep again' in returning to the Shire, but my (sleepy) intuition is that there is some impact.
+Now Tom draws a distinction between:
+
+•	Dreamlike Consciousness -- in which the individual seems to himself or another to be dreaming, or in which words such as 'dreamlike,' 'as if in a dream,' 'half in a dream,' etc., would be an apt description.
+
+And,
+
+•	Enchanted Consciousness -- in which the individual's perceptions are altered, for good or for ill, by means of enchantment.
+
+But I am wondering now if this distinction is sustainable - are the first not (always?) states of enchantment in which we are not explicitly told who (or what) is doing the enchantment (but enchantment is the very nature of the environment)? This may be wrong... and there can be no question as to the general correctness of Tom's train of thought:
+
+>Yet how to arrange these three between the other two [waking and sleeping consciousness] is difficult, probably impractical, and most likely irrelevant. The states overlap and blend. Dreams, for example, can be ordinary, like those of Merry and Pippin in Bombadil's house; they can combine with a wider consciousness, like Frodo's that cross time and space; or they can partake of enchanted consciousness as Merry's dream in the barrow seems to do. There is thus no hedge, no river, no line of trees, to mark a clear boundary. The interplay between these states and between the normal world and Faërie argues that these are all, not alternative states or worlds, but integral parts of a greater whole.
+
+Still, we should perhaps pay some attention to the ways that Tolkien wove together the ideas he found in Dunne [private dream accessing space and time] and his own OFS [dream-like state of enchantment by another power] to generate his own enchanted narrative. 
 
 Two further points:
 
@@ -62,7 +74,15 @@ Two further points:
 
 2. A quite different point, deriving from the second paragraph in the introduction: in OFS Tolkien identifies elves as *the* denizens of Faërie; but of course, *all* the inhabitants of Faërie 'are in and of Faërie' and 'have their being in its nature'. This surely stands behind the enchantments woven into so much of the narrative of LOTR - from old man willow to the barrow wights to the water of the dead marshes - the things and beings of Faërie are simply doing what they naturally do: casting enchantments (= generating dream-like states of consciousness). *In a way*, all these enchantments are *like* the telling of fairy stories. (But it is only the Elvish form of this enchantment that the mortal composer of fairy stories aspires to imitate).
 
+---- on this last point, Tom writes:
 
+>As we can see, enchanted consciousness can cut both ways, for good or for ill, depending on the source of the enchantment.  The whole narrative in this passage, from the moment the hobbits wake up to the moment Frodo is taken by the Barrow-wight, is vague and dark, full of fear and deceptions, the reader having no more idea of what is going on than the characters do (1.viii.140). By contrast, the vivid description of the tales Bombadil tells reads more like the hobbits were witnessing the events rather than just hearing them retold: 'and still on and back Tom went singing out into ancient starlight, when only the Elf-sires were awake' (1.vii.131).
+
+>Song has this power in Middle-earth, to fascinate the mind, to shape its perceptions, and even to bring visions of what is being sung; and this has evidently been so since Ilúvatar said 'Behold your choiring and your music' to the Ainur (The Book of Lost Tales 1.55; Silmarillion 17).  We have seen this before with Old Man Willow, Bombadil, and Goldberry.  We will see it later in Rivendell (2.i.233).  We are seeing it now, I would argue, in the perceptions of the hobbits in hours leading up to their capture. Somewhere, as the narrator's dismissal of a more prosaic explanation above, and as Frodo's statement to Merry below, that he 'thought that he was lost' (1.viii.143, emphasis mine), strongly suggest, the Barrow-wight was singing from the moment the hobbits stopped for lunch.
+
+>... As different as the songs of Frodo and the wight are from each other, they are the same in one respect.  Both are invocations of a power they do not themselves possess. ... Bombadil's three songs invoke nothing but his own place within the world, and simply issue commands, banishing the wight to the outer darkness (1.viii.142)...
+
+I think 'song' is kind of synonymois with fairy story and both with 'spell of enchantment'.
 
 ###Another Section
 
