@@ -82,7 +82,7 @@ Two further points:
 
 >... As different as the songs of Frodo and the wight are from each other, they are the same in one respect.  Both are invocations of a power they do not themselves possess. ... Bombadil's three songs invoke nothing but his own place within the world, and simply issue commands, banishing the wight to the outer darkness (1.viii.142)...
 
-I think 'song' is kind of synonymois with fairy story and both with 'spell of enchantment'.
+I think 'song' is kind of synonymous with fairy story and both with 'spell of enchantment'.
 
 ###Another Section
 
