@@ -1,16 +1,16 @@
 ---
 layout: essay
-title: "Essay: The Song (and the Sea) Remain the Same"
+title: "The Song (and the Sea) Remain the Same"
 ---
-Essay for Verlyn Flieger Festschrift. Joint authors: [Jeremiah Burns](https://plus.google.com/+JeremiahBurns/about), [Simon J. Cook](https://plus.google.com/+simoncook/about), [Thomas P. Hillman] (https://plus.google.com/107507259485817913355/about), [Richard Rohlin](https://plus.google.com/+RichardRohlin/about), [Oliver Stegen](https://plus.google.com/+OliverStegen/about).
+Essay for Verlyn Flieger Festschrift, *A Wilderness of Dragons*. Joint authors: [Jeremiah Burns](https://plus.google.com/+JeremiahBurns/about), [Simon J. Cook](https://plus.google.com/+simoncook/about), [Thomas P. Hillman] (https://plus.google.com/107507259485817913355/about), [Richard Rohlin](https://plus.google.com/+RichardRohlin/about), [Oliver Stegen](https://plus.google.com/+OliverStegen/about).
 
-#The Song (and the Sea) Remain the Same
 
 >The magic of Faërie is not an end in itself, its virtue is in its operations: among these are the satisfaction of certain primordial human desires. One of these desires is to survey the depths of space and time. (*On Fairy-stories*,para. 16)
 
-Readers and scholars alike have long appreciated one of the most striking effects of Tolkien’s art in *The Lord of the Rings*, the perception of depth that he so deftly creates through allusions to ancient histories, mythic heroes, and Great Tales.  We, as ignorant as almost any hobbit, stand staring across those ‘depths of space and time,’ like one gazing out to sea who catches the flash of white sails on a veiled horizon, and yearns to know more.  Few of those beside us on this hither shore have done as much to help us understand how Tolkien realizes our longing to survey those depths as Verlyn Flieger.  Her many essays and books, especially *A Question of Time* and *Splintered Light*, have illuminated the workings of the magic of Faërie as it is portrayed in Middle-earth, and especially in Tolkien’s most detailed and complete Tale of that world nearly lost to us in ‘deeps of time.’
 
-For by way of his vision of the destruction of Númenor, Tolkien established a turning-point in the temporal vision of Myth-transforming-into-History that he shared with Owen Barfield.  In The *Lord of the Rings* Tolkien expanded this moment of transition from a single catastrophe to an entire age – the Third Age, which he envisaged as a period in which Myth haunts and interpenetrates History.  Having derived the idea of the destruction of Númenor while devising an abortive story of time-travel from the present to the days of Myth, and having envisaged time-travel by means of W.J. Dunne's theory of dreams, Tolkien proceeded to utilize Dunne's theory in order to realize his vision of a world half-way between Myth and History.  Dunne's theory, in other words, provided the basis of the 'magic' of Middle-earth.
 
-In Middle-earth at the end of the Third Age, moreover, there are still many places, people, and devices that through dreams and visions, through enchantments, songs, and memories, allow both characters and readers to survey those longed for depths, and experience them meaningfully for their story and ours.  From the White Towers of the Emyn Beraid, home of a palantír that may gaze across the Sea to Valinor and perhaps through time itself, and future home of the Red Book of Westmarch, to Tom Bombadil and Tom’s Land, to Galadriel and her mirror in Lothlórien, and back again in the end to the Towers, the Sea, and the ‘West that is forgotten’ (*TT* 4.v.670), The *Lord of the Rings* is a straight road made open to us and the hobbits only by the virtue of the magic of Faërie.  By investigating the operation of this enchantment through the places, people, and devices mentioned above, we shall show that magic of this kind, unlike Gandalf’s kindling spell on Caradhras (*FR* 2.iii.290), exists beyond time and space, and is fundamentally connected to the nature of the world through song, including ultimately the Music of the Ainur, and through the Sea, since ‘in water there lives yet the echo of the Music of the Ainur more than in any substance else’ (*Silm*. 19). 
+
+
+###Bibliography
+OFS: *Tolkien On Fairy-stories', edited by Verlyn Flieger & Douglas Anderson, HarperCollins, 2008.
 
