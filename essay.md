@@ -15,10 +15,15 @@ Fairies, or elves, are the masters of enchantment; the ultimate tellers of fairy
 
 All of this is rather abstract and so difficult to grasp. But then, in composing this essay (originally a lecture, delivered in 1939), Tolkien himself was thinking in abstractions as he prepared to compose his own fairy story, the sequel to *The Hobbit* that we now know as *The Lord of the Rings*. If we turn to the chapter *Many Meetings* of this latter book we find a concrete illustration of these key ideas from 'On Fairy Stories'. The scene in question takes place in 'the Hall of Fire' in Rivendell, a place (as Gandalf tells Frodo) where 'you will hear many songs and tales - if you can keep awake.'
 
->Frodo began to listen. 
+>Frodo began to listen.  
+
 >At first the beauty of the melodies and of the interwoven words in elven-tongues, even though he understood them little, held him in a *spell*, as soon as he began to attend to them. Almost it seemed that the words took shape, and visions of far lands and bright things that he had never yet imagined opened out before him; and the firelit hall became like a golden mist above seas of foam that sighed upon the margins of the world. Then the *enchantment* became more and more *dreamlike*, until he felt that an endless river of swelling gold and silver was flowing over him, too multitudinous for its pattern to be comprehended; it became part of the throbbing air about him, and it drenched and drowned him. Swiftly he sank under its shining weight into a deep realm of *sleep*. 
->There he wandered long in a *dream* of music that turned into running water, and then suddenly into a voice. It seemed to be the voice of Bilbo chanting verses. Faint at first and then clearer ran the words. 
->*Eärendil was a mariner...*
+
+>There he wandered long in a *dream* of music that turned into running water, and then suddenly into a voice. It seemed to be the voice of Bilbo chanting verses. Faint at first and then clearer ran the words.  
+
+>*Eärendil was a mariner...*   
+
+sd
 
 
 
