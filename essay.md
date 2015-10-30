@@ -13,7 +13,7 @@ Fairy stories are stories about Faërie, not about fairies. This is the point ha
 
 Fairies, or elves, are the masters of enchantment; the ultimate tellers of fairy stories. This is the subtle, meta-point underlying the whole of Tolkien's essay. In their ideal form, fairy stories are, literally, stories told by fairies. The mortal art of fantasy, that is, of composing 'fairy stories', *aspires* to the true elvish craft of Enchantment. If fantasy imagines a world that satisfies our deepest desires, one of the most profound of these desires is the realisation of fantasy itself. Of 'the desire for a living, realised sub-creative art' the Elves, 'in their better (but still perilous) part are largely made; and it is from them that we may learn what is the central desire and aspiration of human Fantasy' (OFS 64).
 
-All of this is rather abstract and so difficult to grasp. But then, in composing this essay (originally a lecture, delivered in 1939), Tolkien himself was thinking in abstractions as he prepared to compose his own fairy story, the sequel to *The Hobbit* that we now know as *The Lord of the Rings*. If we turn to the chapter *Many Meetings* of this latter book we find a concrete illustration of these key ideas from 'On Fairy Stories'. The scene in question takes place in 'the Hall of Fire' in Rivendell, a place (as Gandalf tells Frodo) where 'you will hear many songs and tales - if you can keep awake.'
+All of this is rather abstract and so difficult to grasp. But then, in composing this essay (originally a lecture, delivered in 1939), Tolkien himself was thinking in abstractions - putting his thoughts in order as he prepared to compose his own fairy story, the sequel to *The Hobbit* that we now know as *The Lord of the Rings*. If we turn to the chapter *Many Meetings* of this latter book we find a concrete illustration of some of these key ideas from 'On Fairy Stories'. The scene in question takes place in 'the Hall of Fire' in Rivendell, a place (as Gandalf tells Frodo) where 'you will hear many songs and tales - if you can keep awake.'
 
 >Frodo began to listen.  
 
@@ -21,7 +21,7 @@ All of this is rather abstract and so difficult to grasp. But then, in composing
 
 >There he wandered long in a *dream* of music that turned into running water, and then suddenly into a voice. It seemed to be the voice of Bilbo chanting verses. Faint at first and then clearer ran the words.  
 
->*Eärendil was a mariner...*   
+>*Eärendil was a mariner...*      (FR, Volume 2, Chapter 1; emphases added)
 
 sd
 
