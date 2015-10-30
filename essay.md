@@ -80,7 +80,7 @@ A further point, deriving from the second paragraph in the introduction above: i
 
 ---- on this last point, Tom writes:
 
->Song has this power in Middle-earth, to fascinate the mind, to shape its perceptions, and even to bring visions of what is being sung; and this has evidently been so since Ilúvatar said 'Behold your choiring and your music' to the Ainur (The Book of Lost Tales 1.55; Silmarillion 17).  We have seen this before with Old Man Willow, Bombadil, and Goldberry.  We will see it later in Rivendell (2.i.233).  We are seeing it now, I would argue, in the perceptions of the hobbits in hours leading up to their capture. Somewhere, as the narrator's dismissal of a more prosaic explanation above, and as Frodo's statement to Merry below, that he 'thought that he was lost' (1.viii.143, emphasis mine), strongly suggest, the Barrow-wight was singing from the moment the hobbits stopped for lunch.
+>Song has this power in Middle-earth, to fascinate the mind, to shape its perceptions, and even to bring visions of what is being sung; and this has evidently been so since Ilúvatar said 'Behold your choiring and your music' to the Ainur (The Book of Lost Tales 1.55; Silmarillion 17).  We have seen this before with Old Man Willow, Bombadil, and Goldberry.  We will see it later in Rivendell (2.i.233).
 
 I think 'song' is kind of synonymous with fairy story and both with 'spell of enchantment'. In all cases, what is induced is a dream-like state.
 
