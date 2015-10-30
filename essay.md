@@ -23,8 +23,9 @@ A level of abstraction, not to mention self-reflexicity, pervades these thoughts
 
 >*Eärendil was a mariner...*      (FR, Volume 2, Chapter 1, 'Many Meetings'; emphases added)
 
-This scene could almost be taken as a prelude to Tolkien's own fairy story.
+This scene is almost as a prelude to Tolkien's own fairy story. We first encouter the true sub-creative art, or rather, its most perfect expression: words that take shape, opening up vistas of things and places never before imagined, the seas that meet the further shore are conjured up before Frodo, whose experience of hearing the sweet music of the Elvish minstrels becomes ever more insperable from dream. And then a new voice is heard, a mortal voice, a lesser attempt to sing of stirring events in the first age of Faërie - an intimation of Tolkien's attempts to (now) tell the great tale of the ending of the Third Age of Middle-earth.
 
+After Bilbo's recitation, Aragorn highlights the gap between true elvish enchantment and mortal attempt to tell fairy stories: 'he obviously thought the whole thing rather above my head', Bilbo tells Frodo. 'I suppose he was right.' Yet Frodo's words are encouraging: 'It seemed to me to fit somehow, though I can't explain. I was half asleep when you began, and it seemed to follow on from something that I was dreaming about.'
 
 
 
