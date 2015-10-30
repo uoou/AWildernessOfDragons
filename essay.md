@@ -52,7 +52,7 @@ Simon: a quick comment, having just read quickly through all Tom's notes (note, 
 
 The first is what Dunne analyzed, giving Tolkien the idea of the individual dream as allowing visions of other time and space.
 
-The second is what Tolkien calls 'Faërian Drama', which the experience of being present at 'may be very similar to Dreaming and has (it would seem) sometimes (by men) been confounded with it' (OFS 63). Another words for this experience is (being under an) 'enchantment'.
+The second is what Tolkien calls 'Faërian Drama', which the experience of being present at 'may be very similar to Dreaming and has (it would seem) sometimes (by men) been confounded with it' (OFS 63). Another word for this experience is (being under an) 'enchantment'.
 
 A lot of the dream references in LOTR noted by Tom are to dream-*like* states, and rather than reading this as being a semi-dream state (which is what I *think* Tom does) it might be safer to classify them as simply 'enchanted states'. I'm not sure if or how this impacts upon Tom's criticisms of Flieger's interpretation of Frodo's 'falling back asleep again' in returning to the Shire, but my (sleepy) intuition is that there is some impact.
 
