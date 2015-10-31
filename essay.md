@@ -34,12 +34,12 @@ Frodo here does more than offer words of comfort; he points directly, if elusive
 
 ###*A Question of Time*
 
->[In the Lord of the Rings] dreams are not so much a part of the action as correlative to it.  They correlate the waking and the sleeping worlds, they parallel or contrast conscious with unconscious experience, and they act as chronological markers. Free in a way the rest of the narrative is not to move beyond the confines of conscious experience, the dreams in The Lord of the Rings reach into unsuspected regions of the mind, bridge time and space, and so demonstrate the interrelationship between dreaming and waking that the two states can be seen as a greater whole. (Flieger AQT, 175-76)
+>[In *The Lord of the Rings*] dreams are not so much a part of the action as correlative to it.  They correlate the waking and the sleeping worlds, they parallel or contrast conscious with unconscious experience, and they act as chronological markers. Free in a way the rest of the narrative is not to move beyond the confines of conscious experience, the dreams in The Lord of the Rings reach into unsuspected regions of the mind, bridge time and space, and so demonstrate the interrelationship between dreaming and waking that the two states can be seen as a greater whole. (Flieger AQT, 175-76)
 
 
 It was Verlyn Flieger who pointed the way... 
 
-**Section Plan** [Aim: to carry out this plan with the minimum necessary words]  
+**Section Plan**  
 
 >First few paragraphs: summarize the analysis of dreams in *AQT*, moving through Dunne's theory of dreams and space-time, Lorien as a dream place, and Frodo's dreams. 
 
@@ -51,7 +51,7 @@ It was Verlyn Flieger who pointed the way...
 
 >Final paragraph: putting all the above together: and now turning to ~~Hillam's~~ Tom Hillman's extensive notes on dreams: it is possible to (a) correlate the different dream and dream-like states with (b) the different **places** of Middle-earth (of which some partake of Faërie more than do others) and, thereby, arrive at (c) a slightly revised formulation of the role of dreams in LOTR than that given by Flieger in *AQT*.
 
-
+[Aim: to carry out this plan with the minimum necessary words] 
 
 
 
@@ -62,7 +62,7 @@ It was Verlyn Flieger who pointed the way...
 
 Here is where we begin our own argument....
 
-(Everything between here and the bibliography are simply rough notes to be deleted. They should properly be put in a blog or a Wiki (and perhaps will be), but they are here for now because they arose by way of a dialogue with Tom Hillman's extended notes on dreams in LOTR, and I take those notes to be the main basis for the body of our essay.)
+>(Everything between here and the bibliography is simply rough notes to be deleted. They should properly be put in a blog or a Wiki (and perhaps will be), but they are here for now because they arose by way of a dialogue with Tom Hillman's extended notes on dreams in LOTR, and I take those notes to be the main basis for the body of our essay.)
 
 Tom: 3 additional things to consider:
 1)	The references to the dreams of elves and to memory at FR 2.viii.379; TT 3.ii.429 and 442. 
