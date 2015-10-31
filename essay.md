@@ -35,11 +35,22 @@ Frodo here does more than offer words of comfort; he points directly, if elusive
 ###*A Question of Time*
 
 It was Verlyn Flieger who pointed the way... 
-[Here we summarize Fliger's AQT and then courteously draw attention to what we regard as its shortcomings, which Tom identifies with the two late chapters dealing with Frodo's dreams.]
 
-Flieger writes (175-76):
+```
+First few paragraphs: summarize the analysis of dreams in *AQT*, moving through Dunne's theory of dreams and space-time, Lorien as a dream place, and Frodo's dreams. 
 
->"[In the Lord of the Rings] dreams are not so much a part of the action as correlative to it.  They correlate the waking and the sleeping worlds, they parallel or contrast conscious with unconscious experience, and they act as chronological markers. Free in a way the rest of the narrative is not to move beyond the confines of conscious experience, the dreams in The Lord of the Rings reach into unsuspected regions of the mind, bridge time and space, and so demonstrate the interrelationship between dreaming and waking that the two states can be seen as a greater whole."
+Another paragraph: One oddity of Flieger's Tolkien scholarship is that she has covered many core elements of Tolkien's writing, and yet her method is to do so in discrete works that stand independently of one another. Two of Flieger's other books, *Splintered Light* and her edition (together with Douglas Anderson) of OFS, *Tolkien On Fairy-stories*, may shed much light on our inquiry, although in doing so may lead us to revise slightly some of the positions set out in *AQT*.
+
+And another paragraph: *SL* gives us the the frame of the ending of the Second Age with the drowning of Númenor and the loss of the straight way: as Valinor can no longer be reached by direct passage over the ocean, and so the further shore becomes metaphorical, so our Middle-earth becomes less mythical and more historical [This is the August Thesis]. Consequently, the hobbits' journey through Middle-earth becomes a movement, not so much through as in and out of Faërie - pockets of Middle-earth are truly part of the perilous realm, others are simply lands of historical legend.
+
+Penultimate paragraph: 'OFS* gives us the notion that Faërie ultimately rests upon universal human primordial desires, one of which is indeed the realisation of fantasy (expressed in Faërie as the fairy stories or songs of the Elves), but another is the desire for far sight in both space and time. In LOTR we find satisfaction of both desiries, and both are often (not always) connected to dream, or dream-like states of consciousness. 
+
+Final paragraph: putting all the above together: and now turning to ~~Hillam's~~ Tom Hillman's extensive notes on dreams: it is possible to (a) correlate the different dream and dream-like states with (b) the different **places** of Middle-earth (of which some partake of Faërie more than do others) and, thereby, arrive at (c) a slightly revised formulation of the role of dreams in LOTR than that given by Flieger in *AQT*.
+
+```
+
+
+>[In the Lord of the Rings] dreams are not so much a part of the action as correlative to it.  They correlate the waking and the sleeping worlds, they parallel or contrast conscious with unconscious experience, and they act as chronological markers. Free in a way the rest of the narrative is not to move beyond the confines of conscious experience, the dreams in The Lord of the Rings reach into unsuspected regions of the mind, bridge time and space, and so demonstrate the interrelationship between dreaming and waking that the two states can be seen as a greater whole. (Flieger AQT, 175-76)
 
 
 
@@ -48,6 +59,7 @@ Flieger writes (175-76):
 
 Here is where we begin our own argument....
 
+(Everything between here and the bibliography are simply rough notes to be deleted. They should properly be put in a blog or a Wiki (and perhaps will be), but they are here for now because they arose by way of a dialogue with Tom Hillman's extended notes on dreams in LOTR, and I take those notes to be the main basis for the body of our essay.)
 
 Tom: 3 additional things to consider:
 1)	The references to the dreams of elves and to memory at FR 2.viii.379; TT 3.ii.429 and 442. 
