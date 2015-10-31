@@ -48,6 +48,12 @@ Flieger writes (175-76):
 
 Here is where we begin our own argument....
 
+
+Tom: 3 additional things to consider:
+1)	The references to the dreams of elves and to memory at FR 2.viii.379; TT 3.ii.429 and 442. 
+2)	The Olore Malle in the BoLT, by which mortal children can visit Faerie in their dreams.
+3)	According to The Line of Elros in UT, Elendil wrote Akallabeth.  This raises the question, how did he know what was going on in Numenor or, more particularly, with Ar-Pharazon once Ar-Pharazon had set sail for Valinor. Answer: Elendil had the palantir that allowed one to see all the way back to Valinor.  This would make the only use of this palantir that we can even infer.
+
 Simon: a quick comment, having just read quickly through all Tom's notes (note, it was a *very* quick read, and I am *very* tired, and so this could be all wrong). I think there is a distinction that needs to be added to Tom's analysis, and which might alter the conclusions somewhat. The distinction is between (i) normal private dreams (that an individual has when asleep) and (ii) the enchantment of Faerie that is like being in a dream woven by another.
 
 The first is what Dunne analyzed, giving Tolkien the idea of the individual dream as allowing visions of other time and space.
