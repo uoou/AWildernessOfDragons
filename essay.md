@@ -7,6 +7,15 @@ Co-authors: [Jeremiah Burns](https://plus.google.com/+JeremiahBurns/about), [Sim
 
 >The magic of Faërie is not an end in itself, its virtue is in its operations: among these are the satisfaction of certain primordial human desires. One of these desires is to survey the depths of space and time. (OFS 34-5)
 
+
+####Contents
+Introduction  
+*A Question of Time*  
+Dreams in *LOTR* (Tom's Exegesis)  
+Resolution  
+Conclusion  
+
+
 ###Introduction
 
 Fairy stories are stories about Faërie, not about fairies. This is the point hammered home in the first pages of Tolkien's essay 'On Fairy Stories'. The point is developed further as the essay proceeds. Fairy stories, we begin to understand, are exercises in fantasy, the literary creation of  imaginary 'Other-worlds'. Yet it is the hasty reader who dismisses the significance of fairies. For elves (that is, fairies) are the natural denizens of Faërie: as Tolkien puts it in an early draft: living in and by it, elves have their being in Faërie (OFS 254). To grasp the nature of the perilous realm as a sub-created universe is to grasp (more or less) the nature of its fay inhabitants.
@@ -34,16 +43,17 @@ Frodo here does more than offer words of comfort; he points directly, if elusive
 
 ###*A Question of Time*
 
+As with so many paths in Tolkien studies, Verlyn Flieger points us on our way. Tolkien's conception and use of dream is a vital, if utlimately subordinate, concern in her 1997 book, *A Question of Time*. As the title suggests, Flieger's main concern in this work is with the theme of time (or space-time) in Tolkien's fiction. As such, she is particularly concerned with Tolkien's use of dream to move beyond normal experiences of time. For example, she connects dream with memory and suggests that dreams open 'a way into past time' (AQT 4). This suggestion is expanded upon by way of some brilliant detective work, whereby Flieger demonstrates Tolkien's engagement with J.W. Dunne's *An Experiment with Time* (1927). Dunne argued that while our waking experience of time is a moment-by-moment flow, in reality all of time (like space) is always present, and that in dream the mind could extend its range of observation of time, moving forward into the future as well as backward into the past (see AQT 39-47). Thus, for Flieger, the fundamental significance of dreams in *The Lord of the Rings* is that they allow Tolkien to reveal unexpected depths and developments in the consiousness of his characters, most imporantly Frodo.
 
 
-It was Verlyn Flieger who pointed the way... 
+
 
 >[In *The Lord of the Rings*] dreams are not so much a part of the action as correlative to it.  They correlate the waking and the sleeping worlds, they parallel or contrast conscious with unconscious experience, and they act as chronological markers. Free in a way the rest of the narrative is not to move beyond the confines of conscious experience, the dreams in The Lord of the Rings reach into unsuspected regions of the mind, bridge time and space, and so demonstrate the interrelationship between dreaming and waking that the two states can be seen as a greater whole. (Flieger AQT, 175-76)
 
 
 
 ###Dreams in *The Lord of the Rings*
-Tom's exegesis of LOTR and criticism of Flieger's position
+Tom's exegesis of dreams in LOTR and criticism of Flieger's position
 
 
 ###Another Section
