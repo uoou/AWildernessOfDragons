@@ -34,86 +34,31 @@ Frodo here does more than offer words of comfort; he points directly, if elusive
 
 ###*A Question of Time*
 
->[In *The Lord of the Rings*] dreams are not so much a part of the action as correlative to it.  They correlate the waking and the sleeping worlds, they parallel or contrast conscious with unconscious experience, and they act as chronological markers. Free in a way the rest of the narrative is not to move beyond the confines of conscious experience, the dreams in The Lord of the Rings reach into unsuspected regions of the mind, bridge time and space, and so demonstrate the interrelationship between dreaming and waking that the two states can be seen as a greater whole. (Flieger AQT, 175-76)
 
 
 It was Verlyn Flieger who pointed the way... 
 
-**Section Plan**  
-
->First few paragraphs: summarize the analysis of dreams in *AQT*, moving through Dunne's theory of dreams and space-time, Lorien as a dream place, and Frodo's dreams. 
-
->Another paragraph: One oddity of Flieger's Tolkien scholarship is that she has covered many core elements of Tolkien's writing, and yet her method is to do so in discrete works that stand independently of one another. Two of Flieger's other books, *Splintered Light* and her edition (together with Douglas Anderson) of OFS, *Tolkien On Fairy-stories*, may shed much light on our inquiry, although in doing so may lead us to revise slightly some of the positions set out in *AQT*.
-
->And another paragraph: *SL* gives us the the frame of the ending of the Second Age with the drowning of Númenor and the loss of the straight way: as Valinor can no longer be reached by direct passage over the ocean, and so the further shore becomes metaphorical, so our Middle-earth becomes less mythical and more historical [This is the August Thesis]. Consequently, the hobbits' journey through Middle-earth becomes a movement, not so much through as in and out of Faërie - pockets of Middle-earth are truly part of the perilous realm, others are simply lands of historical legend.
-
->Penultimate paragraph: OFS gives us the notion that Faërie ultimately rests upon universal human primordial desires, one of which is indeed the realisation of fantasy (expressed in Faërie as the fairy stories or songs of the Elves), but another is the desire for far sight in both space and time. In LOTR we find satisfaction of both desiries, and both are often (not always) connected to dream, or dream-like states of consciousness. 
-
->Final paragraph: putting all the above together: and now turning to ~~Hillam's~~ Tom Hillman's extensive notes on dreams: it is possible to (a) correlate the different dream and dream-like states with (b) the different **places** of Middle-earth (of which some partake of Faërie more than do others) and, thereby, arrive at (c) a slightly revised formulation of the role of dreams in LOTR than that given by Flieger in *AQT*.
-
-[Aim: to carry out this plan with the minimum necessary words] 
+>[In *The Lord of the Rings*] dreams are not so much a part of the action as correlative to it.  They correlate the waking and the sleeping worlds, they parallel or contrast conscious with unconscious experience, and they act as chronological markers. Free in a way the rest of the narrative is not to move beyond the confines of conscious experience, the dreams in The Lord of the Rings reach into unsuspected regions of the mind, bridge time and space, and so demonstrate the interrelationship between dreaming and waking that the two states can be seen as a greater whole. (Flieger AQT, 175-76)
 
 
 
-
+###Dreams in *The Lord of the Rings*
+Tom's exegesis of LOTR and criticism of Flieger's position
 
 
 ###Another Section
 
-Here is where we begin our own argument....
-
->(Everything between here and the bibliography is simply rough notes to be deleted. They should properly be put in a blog or a Wiki (and perhaps will be), but they are here for now because they arose by way of a dialogue with Tom Hillman's extended notes on dreams in LOTR, and I take those notes to be the main basis for the body of our essay.)
-
-Tom: 3 additional things to consider:
-1)	The references to the dreams of elves and to memory at FR 2.viii.379; TT 3.ii.429 and 442. 
-2)	The Olore Malle in the BoLT, by which mortal children can visit Faerie in their dreams.
-3)	According to The Line of Elros in UT, Elendil wrote Akallabeth.  This raises the question, how did he know what was going on in Numenor or, more particularly, with Ar-Pharazon once Ar-Pharazon had set sail for Valinor. Answer: Elendil had the palantir that allowed one to see all the way back to Valinor.  This would make the only use of this palantir that we can even infer.
-
-Simon: a quick comment, having just read quickly through all Tom's notes (note, it was a *very* quick read, and I am *very* tired, and so this could be all wrong). I think there is a distinction that needs to be added to Tom's analysis, and which might alter the conclusions somewhat. The distinction is between (i) normal private dreams (that an individual has when asleep) and (ii) the enchantment of Faerie that is like being in a dream woven by another.
-
-The first is what Dunne analyzed, giving Tolkien the idea of the individual dream as allowing visions of other time and space.
-
-The second is what Tolkien calls 'Faërian Drama', which the experience of being present at 'may be very similar to Dreaming and has (it would seem) sometimes (by men) been confounded with it' (OFS 63). Another word for this experience is (being under an) 'enchantment'.
-
-Now Tom draws a distinction between:
-
-•	Dreamlike Consciousness -- in which the individual seems to himself or another to be dreaming, or in which words such as 'dreamlike,' 'as if in a dream,' 'half in a dream,' etc., would be an apt description.
-
-And,
-
-•	Enchanted Consciousness -- in which the individual's perceptions are altered, for good or for ill, by means of enchantment.
-
-But I am wondering now if this distinction is sustainable - are the first not (always?) states of enchantment in which we are not explicitly told who (or what) is doing the enchantment (but enchantment is the very nature of the environment)? 
-
-Again, Tom writes:
->Frodo says that he feels "like" he is falling asleep.  Merry says it seems "like" a dream, as does Sam on the way to the Grey Havens. But what is "like" a dream, or "like" falling asleep, is by definition NOT a dream and NOT falling asleep.  The distinction between "dream" and dreamlike" could not be more important in a context like this, because it is the difference between what is and what is not a dream. Merry, Sam, and Frodo all know that what happened to them on their adventure was no dream, even if it was so different from their former lives that it might be compared to one. 
-
-This is not wrong, but could perhaps be advanced if we step from "like a dream is NOT a dream" to "like a dream is enchanted" - then we can read at least Merry's statement as nothing to do with dream in its normal sense and all about a return out of an enchnated land, that is, the return from Faërie. (This in itself is no big deal, and I suspect Tom would say I'm just restating the point he was making; but it might be that keeping this distinction betweeen dream and enchantment in mind helps clarify the general discussion).
-
-To be clear, I am thoroughly in agreement with the following:
-
->Yet how to arrange these three between the other two [waking and sleeping consciousness] is difficult, probably impractical, and most likely irrelevant. The states overlap and blend. Dreams, for example, can be ordinary, like those of Merry and Pippin in Bombadil's house; they can combine with a wider consciousness, like Frodo's that cross time and space; or they can partake of enchanted consciousness as Merry's dream in the barrow seems to do. There is thus no hedge, no river, no line of trees, to mark a clear boundary. The interplay between these states and between the normal world and Faërie argues that these are all, not alternative states or worlds, but integral parts of a greater whole.
-
-Still, we should perhaps pay more explcit attention to the ways that Tolkien wove together the ideas he found in Dunne [private dream accessing space and time] and his own OFS [dream-like state of enchantment by another power] to generate his own enchanted narrative. Lothlorien is one place where the two seem to almost completely merge, but various levels of merging seem to occur throughout LOTR.
-
-
-A further point, deriving from the second paragraph in the introduction above: in OFS Tolkien identifies elves as *the* denizens of Faërie; but of course, *all* the inhabitants of Faërie 'are in and of Faërie' and 'have their being in its nature'. This surely stands behind the enchantments woven into so much of the narrative of LOTR - from old man willow to the barrow wights to the water of the dead marshes - the things and beings of Faërie are simply doing what they naturally do: casting enchantments (= generating dream-like states of consciousness). *In a way*, all these enchantments are *like* the telling of fairy stories. (But it is only the Elvish form of this enchantment that the mortal composer of fairy stories aspires to imitate).
-
----- on this last point, Tom writes:
-
->Song has this power in Middle-earth, to fascinate the mind, to shape its perceptions, and even to bring visions of what is being sung; and this has evidently been so since Ilúvatar said 'Behold your choiring and your music' to the Ainur (The Book of Lost Tales 1.55; Silmarillion 17).  We have seen this before with Old Man Willow, Bombadil, and Goldberry.  We will see it later in Rivendell (2.i.233).
-
-I think 'song' is kind of synonymous with fairy story and both with 'spell of enchantment'. In all cases, what is induced is a dream-like state.
-
-And one final, related, point: as the epigraph above indicates, the desire to make a living sub-creative art is certainly not the only primordial desire that gives rise to fantasy - another such primordial desire is to survey the depths of time and space, which (as we know from our Wiki pages) relates to the palantir, Galadriel's mirror, Tom Bombadil's recollectons, and of course (Dunne's theory of) dreams. My point is that having a 'fairy nature' is not equal (no more and no less) to having an elvish ability of enchantment - their is a fairy element to Dunne's theory of dreams; or put another way, the dreams that Dunne described are the kind of dreams that the traveller in the perilous land is likely to dream.
+Resolution of divergent interpretations...
 
 
 
-###Another Section
 
-Here we continue our own argument. And so on...
+###Conclusion
+
+Here we conclude our argument. 
 
 
 ###Bibliography
 OFS: *Tolkien On Fairy-stories*, edited by Verlyn Flieger & Douglas Anderson, HarperCollins, 2008.
+AQT: 
 
