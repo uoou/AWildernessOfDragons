@@ -77,5 +77,5 @@ Here we conclude our argument.
 
 ###Bibliography
 OFS: *Tolkien On Fairy-stories*, edited by Verlyn Flieger & Douglas Anderson, HarperCollins, 2008.
-AQT: 
+AQT: *A Question of Time: J.R.R. Tolkien's Road to* Faërie, Verlyn Flieger, Kent University Press, 1977.
 
