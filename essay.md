@@ -9,14 +9,15 @@ Co-authors: [Jeremiah Burns](https://plus.google.com/+JeremiahBurns/about), [Sim
 
 
 ####Contents
-Introduction  
-*A Question of Time*  
-Dreams in *LOTR* (Tom's exegesis)  
-Resolution  
-Conclusion  
+[Introduction](#c1)
+[*A Question of Time*](#c2)
+[Dreams in *The Lord of the Rings*](#c3)
+[Another Section](#c4)
+[Conclusion](#c5)
+[Bibliography](#c6)  
 
 
-###Introduction
+###<a name="c1"></a>Introduction
 
 Fairy stories are stories about Faërie, not about fairies. This is the point hammered home in the first pages of Tolkien's essay 'On Fairy Stories'. The point is developed further as the essay proceeds. Fairy stories, we begin to understand, are exercises in fantasy, the literary creation of  imaginary 'Other-worlds'. Yet it is the hasty reader who dismisses the significance of fairies. For elves (that is, fairies) are the natural denizens of Faërie: as Tolkien puts it in an early draft: living in and by it, elves have their being in Faërie (OFS 254). To grasp the nature of the perilous realm as a sub-created universe is to grasp (more or less) the nature of its fay inhabitants.
 
@@ -41,7 +42,7 @@ An interesting commentary on this scene is offered immediately after the recitat
 Frodo here does more than offer words of comfort; he points directly, if elusively, at one of the mysteries of Tolkien's mature sub-creative craft. Dream - somehow - is grasped by Tolkien as an aid to mortal composition and telling of fairy stories. As we shall see, a close reading of his epic story of the end of the Third Age - the greatest fairy story of the modern age - reveals a pervasive and multifaceted use and invocation of dreams. Our goal in composing this essay is to bring to waking thought the nature and the role of dreams in *The Lord of the Rings*.
 
 
-###*A Question of Time*
+###<a name="c2"></a>*A Question of Time*
 
 As with so many paths in Tolkien studies, Verlyn Flieger points us on our way. Tolkien's conception and use of dream is a vital, if utlimately subordinate theme in her 1997 book, *A Question of Time*. As her title suggests, Flieger is first and foremost interested in the role of time (or space-time) in Tolkien's fiction. As such, dreams concern her primarily as a means by which Tolkien revealed something beyond normal waking experiences of time (AQT 4). The relationship of dream and time is established by way of J.W. Dunne's *An Experiment with Time* (1927). Dunne had argued that, while our waking experience of time is a moment-by-moment flow, in reality all of time (like space) is always present, and that in dream the mind may extend its range of observation of time, looking forward into the future as well as backward into the past (see AQT 39-47). By way of some brilliant detective work, the influence of Dunne is revealed by Flieger at several key points in *The Lord of the Rings*. This leads to the conclusion that Tolkien here employed dreams mainly in order to reveal both unexpected depths to, and also developments in the *consciousness* of his characters, most importantly Frodo.
 
@@ -59,23 +60,23 @@ The 'dream' that most interests Flieger in this second chapter on dreams is 'one
 Flieger suggests that we take Frodo's statement seriously, and she points to the early sequence of adventures experienced by the hobbits on leaving the Shire as marking the gradual commencement of what she calls 'Frodo's waking dream' (198). She points out that in each of these adventures - Old Man Willow in the Old Forest, Tom Bombadil, and the Barrow-wight - 'dreaming and waking are interwoven' (AQT 200) and 'interconnected' (AQT 202-3). These first three adventures, Flieger argues, set the scene for Frodo's general experience on leaving the house at Crickhollow, namely, a falling 'wide asleep into a dream so vivid that ordinary waking life takes on the evanescent quality of a dream in comparison', and the entering of 'a world in which waking experience becomes the stuff of dreams, often of nightmares, and in which their dreams cross over into waking experience' (AQT 199). This whole experience, essentially the whole adventure of Frodo, Flieger sees as bridged by Frodo's reciprocal visions of the further shore beyond the sundering sea: 'white shores and beyond them a far green country under a swift sunrise'; first dreamed of in the house of Tom Bombadil, then seen on the ship that bears him from the Grey Havens. What was dream at the beginning of the adventure becomes waking reality at the end of the story. This, for Flieger, is Tolkien's ultimate illustration and application of Dunne's theory of time.
 
 
-###Dreams in *The Lord of the Rings*
+###<a name="c3"></a>Dreams in *The Lord of the Rings*
 Tom's exegesis of dreams in LOTR and criticism of Flieger's position
 
 
-###Another Section
+###<a name="c4"></a>Another Section
 
 Resolution of divergent interpretations...
 
 
 
 
-###Conclusion
+###<a name="c5"></a>Conclusion
 
 Here we conclude our argument. 
 
 
-###Bibliography
+###<a name="c6"></a>Bibliography
 OFS: *Tolkien On Fairy-stories*, edited by Verlyn Flieger & Douglas Anderson, HarperCollins, 2008.  
 AQT: *A Question of Time: J.R.R. Tolkien's Road to* Faërie, Verlyn Flieger, Kent State University Press, 1977.  
 
