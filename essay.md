@@ -9,12 +9,12 @@ Co-authors: [Jeremiah Burns](https://plus.google.com/+JeremiahBurns/about), [Sim
 
 
 ####Contents
-[Introduction](#c1)
-[*A Question of Time*](#c2)
-[Dreams in *The Lord of the Rings*](#c3)
-[Another Section](#c4)
-[Conclusion](#c5)
-[Bibliography](#c6)  
+[Introduction](#c1)  
+[*A Question of Time*](#c2)  
+[Dreams in *The Lord of the Rings*](#c3)  
+[Another Section](#c4)  
+[Conclusion](#c5)  
+[Bibliography](#c6)    
 
 
 ###<a name="c1"></a>Introduction
