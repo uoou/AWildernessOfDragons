@@ -91,7 +91,7 @@ All the next day the hobbits spend ‘under the spell of Tom’s words’ (FR 1.
 >Whether the morning and evening of one day or of many days had passed Frodo could not tell. He did not feel either hungry or tired, only filled with wonder. 
 >(FR 1.vii.131)
 
-‘[R]egions beyond their memory and beyond their waking thought’, ‘enchanted’, ‘spell’ – these words describe not dreams, but an enchanted consciousness, the realization of a Faërian drama, maybe, in which ‘you are in a dream that some other mind is weaving, and the knowledge of that alarming fact may slip from your grasp’. *[FOOTNOTE: The phrase occurs in paragraph 74 of OFS, but by an odd chance it fell out of Flieger and Anderson’s edition, where it should have appeared on p. 63, as noted by Anderson in his corrigenda: https://www.academia.edu/11430292/Corrections_to_the_printings_of_Tolkien_On_Fairy-stories. The complete sentence reads: ‘But in Faërian drama you are in a dream that some other mind is weaving, and the knowledge of that alarming fact may slip from your grasp.’ END FOOTNOTE]* Note well that Frodo (and the others) have lost track of time, that Bombadil is described here as if he were in fact doing what he is singing about, and that it is he who appears to have fallen asleep. 
+‘[R]egions beyond their memory and beyond their waking thought’, ‘enchanted’, ‘spell’ – these words describe not dreams, but an enchanted consciousness, the realization of a Faërian drama, maybe, in which ‘you are in a dream that some other mind is weaving, and the knowledge of that alarming fact may slip from your grasp’.<a name="fn1"></a><span class="footnote">[1](#f1)</span> Note well that Frodo (and the others) have lost track of time, that Bombadil is described here as if he were in fact doing what he is singing about, and that it is he who appears to have fallen asleep. 
 
 That night, ‘either in his dreams or out of them, he could not tell which’, Frodo ‘heard a sweet singing running in his mind’ and then saw the ‘far green country’ to which he will travel in the end.  The narrator (also Frodo, but with hindsight) calls this experience a ‘vision’, as it indeed proves to be.  Just as the previous night’s dream had directed his gaze to the past, and the dream in Crickhollow two nights earlier had him looking for the Sea, which ‘had often troubled his dreams’, so now this ‘vision’ draws his eyes to the future and the Sea, a future which Frodo already regards with little hope: ‘but I go to lose [a treasure], and not return, as far as I can see’ (FR 1.iii.66).
 
@@ -125,6 +125,8 @@ Resolution of divergent interpretations...
 
 Here we conclude our argument. 
 
+###Footnotes
+<a name="f1"></a>[1](#fn1). The phrase occurs in paragraph 74 of OFS, but by an odd chance it fell out of Flieger and Anderson’s edition, where it should have appeared on p. 63, as noted by Anderson in his [corrigenda](https://www.academia.edu/11430292/Corrections_to_the_printings_of_Tolkien_On_Fairy-stories). The complete sentence reads: ‘But in Faërian drama you are in a dream that some other mind is weaving, and the knowledge of that alarming fact may slip from your grasp.’
 
 ###<a name="c6"></a>Bibliography
 OFS: *Tolkien On Fairy-stories*, edited by Verlyn Flieger & Douglas Anderson, HarperCollins, 2008.  
