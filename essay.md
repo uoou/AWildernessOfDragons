@@ -130,6 +130,9 @@ Here we conclude our argument.
 
 ###<a name="c6"></a>Bibliography
 OFS: *Tolkien On Fairy-stories*, edited by Verlyn Flieger & Douglas Anderson, HarperCollins, 2008.  
-AQT: *A Question of Time: J.R.R. Tolkien's Road to* Faërie, Verlyn Flieger, Kent State University Press, 1977.  
+AQT: *A Question of Time: J.R.R. Tolkien's Road to* Faërie, Verlyn Flieger, Kent State University Press, 1997.
+
+Tolkien, J.R.R., *The Lord of the Rings*, 50th Anniversary Edition, Houghton Mifflin, 2004.
+Tolkien, J.R.R., *Unfinished Tales of N&uacute;menor and Middle-earth*, edited by Christopher Tolkien, Houghton Mifflin Company, 1980.
 
 
