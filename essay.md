@@ -104,7 +104,7 @@ For this reason, I would argue that we need to expand Flieger’s comments about
 
 Merry, however, has gone on a very different journey, both in his dreams which are uniformly dark (FR 1.x.173; TT 3.iii.450; RK 5.viii.858-59, 860) and in his real world experiences travelling to Gondor and Rohan, realms where it is hobbits who are regarded as creatures out of Faërie, of whom men have heard but legends and rumors, and the Ents know nothing at all (TT 4.ii.434; iv.464-65, 481; viii.557-58; RK 5.i.760, 767-68).  For him, who has known heroic adventures and valiant deeds, and who back in Crickhollow had declared it unfair that Frodo was having adventures without him (FR 1.iv.102), returning to the Shire might well seem like waking from a dream into the real world. 
 
-So dreams do correlate the waking and sleep worlds as parts of a larger whole, as Flieger has rightly argued. Yet there is more.  Together with other states of consciousness they also correlate, as parts of a larger whole, the world mortals can perceive and the world they cannot: past and future, seen and unseen, the mortal world and Faërie.  And in so doing they make mortals greater than they otherwise are, whether the mortal is Tuor granted for one soaring instant the “swift sight of the Valar” (Unfinished Tales, 30) or the hobbits who each experience some larger vision, whether by Ring, dream, or palantír, and ‘arise from their quiet fields to shake the towers and counsels of the Great’ (FR 2.ii.270).   It is thus that mortals may become ready to settle their own affairs, without Wizards or Elves or Bombadils. Nor is it an accident that Gandalf points this out to the hobbits directly before he leaves them at the very point in the road where Bombadil had left them on the journey out, and that Frodo and Merry make their remarks about dreams directly afterwards:
+So dreams do correlate the waking and sleep worlds as parts of a larger whole, as Flieger has rightly argued. Yet there is more.  Together with other states of consciousness they also correlate, as parts of a larger whole, the world mortals can perceive and the world they cannot: past and future, seen and unseen, the mortal world and Faërie.  And in so doing they make mortals greater than they otherwise are, whether the mortal is Tuor granted for one soaring instant the “swift sight of the Valar” (UT, 30) or the hobbits who each experience some larger vision, whether by Ring, dream, or palantír, and ‘arise from their quiet fields to shake the towers and counsels of the Great’ (FR 2.ii.270).   It is thus that mortals may become ready to settle their own affairs, without Wizards or Elves or Bombadils. Nor is it an accident that Gandalf points this out to the hobbits directly before he leaves them at the very point in the road where Bombadil had left them on the journey out, and that Frodo and Merry make their remarks about dreams directly afterwards:
 
 >'I am with you at present,' said Gandalf, 'but soon I shall not be. I am not coming to the Shire. You must settle its affairs yourselves; that is what you have been trained for. Do you not yet understand? My time is over: it is no longer my task to set things to rights, nor to help folk to do so. And as for you, my dear friends, you will need no help. You are grown up now. Grown indeed very high; among the great you are, and I have no longer any fear at all for any of you. 
 >(RK 6.vii.996)
@@ -130,10 +130,10 @@ Here we conclude our argument.
 
 ###<a name="c6"></a>Bibliography
 OFS: *Tolkien On Fairy-stories*, edited by Verlyn Flieger & Douglas Anderson, HarperCollins, 2008.  
-AQT: *A Question of Time: J.R.R. Tolkien's Road to* Faërie, Verlyn Flieger, Kent State University Press, 1997.
-FR: *The Fellowship of the Ring*, in Tolkien, J.R.R., *The Lord of the Rings*, 50th Anniversary Edition, Houghton Mifflin Company, 2004.<br />
-TT: *The Two Towers*, in Tolkien, J.R.R., *The Lord of the Rings*, 50th Anniversary Edition, Houghton Mifflin Company, 2004.<br />
-RK: *The Return of the King*, in Tolkien, J.R.R., *The Lord of the Rings*, 50th Anniversary Edition, Houghton Mifflin Company, 2004.<br />
-Tolkien, J.R.R., *Unfinished Tales of N&uacute;menor and Middle-earth*, edited by Christopher Tolkien, Houghton Mifflin Company, 1980.
+AQT: *A Question of Time: J.R.R. Tolkien's Road to* Faërie, Verlyn Flieger, Kent State University Press, 1997.<br />
+FR: *The Fellowship of the Ring*, in J.R.R. Tolkien, *The Lord of the Rings*, 50th Anniversary Edition, Houghton Mifflin Company, 2004.<br />
+TT: *The Two Towers*, in J.R.R Tolkien, *The Lord of the Rings*, 50th Anniversary Edition, Houghton Mifflin Company, 2004.<br />
+RK: *The Return of the King*, in J.R.R. Tolkien, *The Lord of the Rings*, 50th Anniversary Edition, Houghton Mifflin Company, 2004.<br />
+UT: *Unfinished Tales of N&uacute;menor and Middle-earth*, edited by Christopher Tolkien, Houghton Mifflin Company, 1980.
 
 
