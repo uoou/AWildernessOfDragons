@@ -130,10 +130,10 @@ Here we conclude our argument.
 
 ###<a name="c6"></a>Bibliography
 OFS: *Tolkien On Fairy-stories*, edited by Verlyn Flieger & Douglas Anderson, HarperCollins, 2008.  
-AQT: *A Question of Time: J.R.R. Tolkien's Road to* Faërie, Verlyn Flieger, Kent State University Press, 1997.<br />
-FR: *The Fellowship of the Ring*, in J.R.R. Tolkien, *The Lord of the Rings*, 50th Anniversary Edition, Houghton Mifflin Company, 2004.<br />
-TT: *The Two Towers*, in J.R.R Tolkien, *The Lord of the Rings*, 50th Anniversary Edition, Houghton Mifflin Company, 2004.<br />
-RK: *The Return of the King*, in J.R.R. Tolkien, *The Lord of the Rings*, 50th Anniversary Edition, Houghton Mifflin Company, 2004.<br />
+AQT: *A Question of Time: J.R.R. Tolkien's Road to* Faërie, Verlyn Flieger, Kent State University Press, 1997.  
+FR: *The Fellowship of the Ring*, in J.R.R. Tolkien, *The Lord of the Rings*, 50th Anniversary Edition, Houghton Mifflin Company, 2004.  
+TT: *The Two Towers*, in J.R.R Tolkien, *The Lord of the Rings*, 50th Anniversary Edition, Houghton Mifflin Company, 2004.   
+RK: *The Return of the King*, in J.R.R. Tolkien, *The Lord of the Rings*, 50th Anniversary Edition, Houghton Mifflin Company, 2004.   
 UT: *Unfinished Tales of N&uacute;menor and Middle-earth*, edited by Christopher Tolkien, Houghton Mifflin Company, 1980.
 
 
